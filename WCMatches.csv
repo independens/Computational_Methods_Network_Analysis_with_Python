@@ -1,4 +1,4 @@
-event,round,winner,winnerid,loser,loserid
+Label,round,Target,winnerid,Source,loserid
 worlds2000,F,Jon Finkel,7d05pfwn,Bob Maher,jfvflnna
 ptny00-mas,R32,Trevor Blackwell,o8q1tnkp,Jon Finkel,o8q1tnkp
 ptny00-mas,R16,Benjamin Rubin,akq5t76h,Trevor Blackwell,akq5t76h
