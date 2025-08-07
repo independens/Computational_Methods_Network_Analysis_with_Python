@@ -25533,3 +25533,9 @@
 2025-08-07 08:57:06,380 - Error processing Player ID ykoazhh4: can only concatenate list (not "str") to list
 2025-08-07 08:57:07,774 - Error processing Player ID dmi72xjc: can only concatenate list (not "str") to list
 2025-08-07 08:57:09,100 - Error processing Player ID sxspu7bh: can only concatenate list (not "str") to list
+2025-08-07 09:11:11,833 - start log
+2025-08-07 09:11:16,506 - Error processing Player ID 0: 'NoneType' object is not iterable
+2025-08-07 09:11:17,886 - Error processing Player ID ykoazhh4: can only concatenate list (not "str") to list
+2025-08-07 09:11:19,500 - Error processing Player ID dmi72xjc: can only concatenate list (not "str") to list
+2025-08-07 09:11:21,093 - Error processing Player ID sxspu7bh: can only concatenate list (not "str") to list
+2025-08-07 09:11:22,272 - Error processing Player ID u4rmer8w: can only concatenate list (not "str") to list
