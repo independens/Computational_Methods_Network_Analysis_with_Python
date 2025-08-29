@@ -2,3 +2,4 @@ EloPlayerinfo.csv filter=lfs diff=lfs merge=lfs -text
 UniquePlayerList2.csv filter=lfs diff=lfs merge=lfs -text
 UniquePlayerList2_splitnames_splitresults.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+*.gexf filter=lfs diff=lfs merge=lfs -text
